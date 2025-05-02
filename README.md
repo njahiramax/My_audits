@@ -1,4 +1,3 @@
-```markdown
 # Smart Contract & Blockchain Security Audit Reports
 
 This repository contains smart contract and blockchain security audit reports written and compiled by me. All documents are in PDF format and reflect thorough, independent reviews of decentralized applications (dApps), DeFi protocols, token contracts, and blockchain-based systems.
@@ -58,7 +57,7 @@ For audit requests, collaborations, or feedback:
 - **Twitter:** [@Xmilla_m]  
 
 
----
+
 
 ```
 
